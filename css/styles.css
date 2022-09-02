@@ -11438,3 +11438,11 @@ section.resume-section .resume-section-content {
 .body-dark{
   background-color: #000;
 }
+@media (min-width:992px) and (max-width:1772px) {
+ .resume-section{
+  margin: 10rem;
+ }
+ #sideNav{
+    min-height: 156vh;
+ }
+}
